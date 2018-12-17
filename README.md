@@ -1,9 +1,8 @@
-** **
 # Project california
 
 California 是一个full stack用于股票策略研究的package.可用于股票交易信号的测试，预期收益率预测，投资组合优化,回测以及绩效归因等功能.
 
-- *****data**
+- **data**
     - panel： panel类型数据结构的holder
     - time_series: 时间序列类型数据的结构holder
     - rtns: 用于基于panel数据进行各类收益率的计算
